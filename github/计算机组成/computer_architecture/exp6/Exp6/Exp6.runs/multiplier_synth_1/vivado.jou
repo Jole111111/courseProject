@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec  7 22:24:30 2021
+# Process ID: 24120
+# Current directory: C:/files/ZJU4.1/CA/arch exp1-4 code/Code4Stu/Exp6/Exp6.runs/multiplier_synth_1
+# Command line: vivado.exe -log multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source multiplier.tcl
+# Log file: C:/files/ZJU4.1/CA/arch exp1-4 code/Code4Stu/Exp6/Exp6.runs/multiplier_synth_1/multiplier.vds
+# Journal file: C:/files/ZJU4.1/CA/arch exp1-4 code/Code4Stu/Exp6/Exp6.runs/multiplier_synth_1\vivado.jou
+#-----------------------------------------------------------
+source multiplier.tcl -notrace

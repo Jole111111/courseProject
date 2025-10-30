@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Oct 31 14:42:37 2023
+# Process ID: 4088
+# Current directory: C:/Users/76925/Desktop/computer_architecture/exp2/Exp2/Exp2.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/76925/Desktop/computer_architecture/exp2/Exp2/Exp2.runs/synth_1/top.vds
+# Journal file: C:/Users/76925/Desktop/computer_architecture/exp2/Exp2/Exp2.runs/synth_1\vivado.jou
+# Running On: LAPTOP-0QV7VRLL, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 16, Host memory: 16541 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
