@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="首页"
+        android:icon="@mipmap/home"/>
+    <item android:id="@+id/gift"
+        android:title="会员权益"
+        android:icon="@mipmap/gift"/>
+    <item android:id="@+id/vip"
+        android:title="尊享卡"
+        android:icon="@mipmap/vip"/>
+    <item android:id="@+id/mine"
+        android:title="我的"
+        android:icon="@mipmap/mine"/>
+</menu>

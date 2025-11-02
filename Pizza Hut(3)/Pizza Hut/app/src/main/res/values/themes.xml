@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PizzaHut" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#E41D30</item>
+    </style>
+
+    <style name="Theme.PizzaHut" parent="Base.Theme.PizzaHut" />
+</resources>

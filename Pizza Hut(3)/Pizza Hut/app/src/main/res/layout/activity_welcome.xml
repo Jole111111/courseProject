@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDF4F0"
+    tools:context=".WelcomeActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        app:cardCornerRadius="25dp"
+        app:cardElevation="0dp">
+
+        <TextView
+            android:id="@+id/tv_countdown"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:background="@color/white"
+            android:backgroundTint="#4D6F440E"
+            android:gravity="center"
+            android:text="3s 跳过"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </androidx.cardview.widget.CardView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="190dp"
+        android:src="@mipmap/app_logo" />
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="必 胜 客"
+         android:layout_centerInParent="true"
+         android:textStyle="bold"
+         android:textColor="@color/black"
+         android:textSize="50sp"
+         />
+
+
+</RelativeLayout>
